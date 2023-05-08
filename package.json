@@ -1,0 +1,7 @@
+{
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "shadowizardy": "^1.0.0"
+  }
+}
